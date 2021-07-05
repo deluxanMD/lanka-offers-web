@@ -1,0 +1,99 @@
+.offers-filters {
+  background-color: #fff;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.offer-single-image {
+  text-align: left;
+}
+
+.filter-title {
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+.offer-name {
+  text-align: left;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.offer-single-name {
+  text-align: left;
+  font-weight: 600;
+}
+
+.offer-single-price {
+  text-align: left;
+  /* margin-top: 20px; */
+}
+
+.offer-single-colors-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* margin-top: 20px; */
+}
+
+.offer-single-colors {
+  text-align: left;
+}
+
+.offer-single-color {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 15px;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* margin-top: 20px; */
+}
+
+.cart-container .increment,
+.cart-container .decrement {
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cart-container p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.cart-btn {
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: auto;
+  cursor: pointer;
+}
+
+.offer-single-description {
+  text-align: justify;
+}
+
+.verticle-ads {
+  /* padding-left: 10px; */
+  /* padding-right: 10px; */
+}
+
+.verticle-ads img {
+  width: 250px;
+}
+
+.related-offer {
+  display: inline-block;
+}
+
+.related-offer img {
+  /* margin-right: 10px; */
+}

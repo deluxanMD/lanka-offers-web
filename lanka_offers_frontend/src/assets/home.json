@@ -1,0 +1,648 @@
+{
+    "TopSlider": [
+      {
+        "id": "20",
+        "name": "name_1",
+        "image":"dsfgdg"
+      },
+      {
+        "id": "7b6d76",
+        "name": "name_2",
+        "image":"dsfgdg"
+      },
+      {
+        "id": "b8",
+        "name": "name_3",
+        "image":"dsfgdg"
+      },
+      {
+        "id": "b884",
+        "name": "name_3",
+        "image":"dsfgdg"
+      } 
+    ],
+    "MainDeals": [
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      }
+
+    ],
+    "Brands": [
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      }
+    ],
+    "popularPics": [
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      },
+      {
+        "id": "20",
+        "name": "name_1",
+        "logo":"dsfgdg"
+      }
+    ],
+    "Latest Offers": [
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      }
+    ],
+    "Popular Offers": [
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      }
+    ],
+    "Super Offers": [
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      },
+      {
+        "id": "b8",
+        "comp-id": "name_3",
+        "title":"dsfgdg",
+        "short description":"",
+        "selling price":"",
+        "discount price":"",
+        "discount amount":"",
+        "image 1":"",
+        "status":"",
+        "post expiry date":""
+      }
+    ],
+    "Location":[
+      {
+        "id": "b8",
+        "userId":"u1",
+        "place": "nallur",
+        "district": "jaffna"
+        
+      }
+    ],
+    "Auth":[
+      {
+        "userId":"u1",
+        "name": "kkhk",
+        "email": "jbj",
+        "userName": "b787",
+        "token":"fdsfxzvsrwqfdcsd"
+      
+      }
+    ]
+
+      
+
+  }

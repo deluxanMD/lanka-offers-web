@@ -1,0 +1,23 @@
+/* Vertical menu popular categories */
+.vertical-menu a {
+    background-color: #ffffff;
+    color: rgb(29, 24, 24);
+    display: block;
+    padding: 12.5px;
+    text-decoration: none;
+    border-bottom: 0.1px solid rgb(235, 235, 235);
+    
+  }
+  
+  .vertical-menu a:hover {
+    color: #de206a;
+  }
+  
+  .image {
+    background-size: 30px;
+    border-radius: 500rem;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #99a9b4;
+  }

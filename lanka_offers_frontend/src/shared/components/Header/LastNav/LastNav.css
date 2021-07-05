@@ -1,0 +1,57 @@
+.lastnav {
+  background-color: #ffffff;
+
+  box-shadow: 0 0.125rem 0.625rem rgba(240, 240, 240, 0.4),
+    0 0.0625rem 0.125rem rgba(202, 137, 180, 0.5);
+}
+
+.lastnav a {
+  float: none;
+  color: #070000;
+  text-align: center;
+  padding: 12px 12px;
+  text-decoration: none;
+  font-size: 16px;
+  border-style: solid;
+  display: inline-block;
+  border-color: #eeebeb;
+  border-width: 0.5px;
+  overflow: hidden;
+  border-bottom: none;
+}
+
+.lastnav a:hover {
+  color: #de206a;
+}
+
+.noti {
+  position: relative;
+  display: inline-block;
+}
+
+.noti .badge {
+  position: absolute;
+  top: -25px;
+  font-size: 9px;
+  right: -25px;
+
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background: #de206a;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(218, 37, 127, 0.2),
+    0 6px 20px 0 rgba(206, 21, 98, 0.19);
+  border: 1px solid #fff;
+}
+
+.notification {
+  position: absolute;
+  top: 27px;
+  right: 28px;
+}
+
+.icon {
+  font-size: 30px;
+  color: #4e4c4d;
+}

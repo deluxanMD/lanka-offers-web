@@ -1,0 +1,84 @@
+select {
+  height: 50px;
+  border: 1px solid pink;
+  background: transparent;
+  padding-left: 5px;
+}
+
+.filter-section {
+  /* display: flex;
+  flex-direction: column; */
+  margin-bottom: 20px;
+}
+
+.brands-filters {
+  background-color: #fff;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.filter-title {
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+.filter-list {
+  text-align: left;
+  margin-left: 20px;
+  display: flex;
+  cursor: pointer;
+}
+
+.filter-list-item {
+  display: inline;
+}
+
+.filter-list-icon {
+  padding-right: 10px;
+}
+
+.filter-list-label,
+.sub-list-label {
+  padding-left: 10px;
+}
+
+.sub-category {
+  height: auto;
+  padding-left: 15px;
+}
+
+/* All Brands */
+.brands-all {
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  position: relative;
+}
+
+.brand {
+  border: 2px solid white;
+  padding: 1px;
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  box-shadow: 0 0.125rem 0.625rem rgb(153 154 155 / 40%),
+    0 0.0625rem 0.125rem rgb(185 173 181 / 50%);
+}
+
+.brand-average-rating {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  background-color: #de206a;
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  font-weight: 700;
+}
+
+.brand-average-star {
+  margin-left: 3px;
+}

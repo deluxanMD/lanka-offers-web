@@ -1,0 +1,139 @@
+.topnav {
+    overflow: hidden;
+    background-color: #de206a;
+   
+  }
+  
+  .topnav a {
+    float: right;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    
+  }
+
+  .topnav .vl {
+    border-left: 3px solid rgb(255, 255, 255);
+    height: 25px;
+    position: absolute;
+    left: 87.4%;
+    margin-top: 6px;
+    top: 0;
+  }
+/* signin modal */
+.login-form {
+  font-family: arial;
+  color: #333;
+  padding: 10px 0 10px;
+} 
+.login-form form {
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px 30px 30px;
+  border: 2px solid rgb(241, 241, 241);
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.login-form h2 {
+  text-align: center;
+  font-size: 35px;
+  margin: 10px 0px 40px;
+}
+.login-form input {
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  height: 45px;
+  margin: 0px 0px 20px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 17px;
+}
+.login-form button {
+  margin: 10px auto 20px;
+  display: table;
+  font-size: 20px;
+  padding: 10px 30px;
+  background-color: #4CAF50;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.login-form button:hover{
+opacity: 0.8;
+}
+.login-form input[type="checkbox"] {
+  height: 16px;
+  width: 16px;
+  margin-right: 5px;
+  float: left;
+}
+.login-form .forget-psw {
+  float: right;
+}
+
+.login-form .signup {
+  margin: 5px;
+  float: right;
+}
+.login-form .forget-psw a {
+  color: #2196F3;
+  text-decoration: none;
+}
+.social-btn button.twitter-btn, .social-btn button.facebook-btn {
+  width: 100%;
+  font-size: 18px;
+  margin: 0px 0px 10px;
+}
+.social-btn button.twitter-btn{
+background-color: #dd2c2c;
+}
+.social-btn button.facebook-btn{
+background-color: #3f68be;
+}
+.social-btn {
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.social-btn button i {
+  margin-right: 5px;
+  font-size: 20px;
+}
+@media (max-width: 767px){
+.login-form form {
+  width: 100%;
+  padding: 20px 15px 30px;
+}
+.social-btn button.twitter-btn, .social-btn button.facebook-btn {
+  font-size: 15px;
+}
+} 
+
+.buttonh {
+  font: inherit;
+  padding: 0.1rem 1.5rem;
+  border: 1px solid #ff0055;
+  border-radius: 4px;
+  background: #ff0055;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+.buttonh:hover{
+  opacity: 0.6;
+  }
+
+.link{
+    color: rgb(1, 100, 248);
+  }
